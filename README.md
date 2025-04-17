@@ -15,4 +15,12 @@
 	- độ khó màn chơi
 		- thay đổi độ khó
 		- quy định cập độ mỗi màn chơi
-		- ( nâng cao ) thêm độ khó đặc biêt
+		- ( nâng cao ) thêm độ khó đặc biệt
+	- màn chơi
+		- thiết kế khu vực chơi
+		- hiện thị thống số:
+			- điểm số
+			- độ khó
+			- tên độ khó
+			- tên màn chơi
+		- 
