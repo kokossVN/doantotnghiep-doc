@@ -36,17 +36,17 @@
 		- độ khó
 			- tên độ khó
 			- tên màn chơi
-- thêm nút tạm dừng màn chơi
-- ( nâng cao ) thêm nút khởi động lại màn chơi
-- Âm nhạc, độ khó
-- các thể loại nhạc: jpop,tech,hardcore,....
-- xử lý âm thanh
-- sử dùng Fmod để quản lý tài nguyên và âm thanh
-- thông tin độ khó
-- tên nhạc
-- nghệ sĩ sáng tác 
-- người thiết kế độ khó
-- hoạ sĩ ảnh bìa ( thumbnail )
-- nhập độ khó từ 1 file bên ngoài
-- đồng bộ nhạc và độ khó  theo mili giây (ms)
-- (nâng cao )xử lý hậu kỳ 
+		- thêm nút tạm dừng màn chơi
+			- ( nâng cao ) thêm nút khởi động lại màn chơi
+	- Âm nhạc, độ khó
+		- các thể loại nhạc: jpop,tech,hardcore,....
+		- xử lý âm thanh
+			- sử dùng Fmod để quản lý tài nguyên và âm thanh
+		- thông tin độ khó
+			- tên nhạc
+			- nghệ sĩ sáng tác 
+			- người thiết kế độ khó
+			- hoạ sĩ ảnh bìa ( thumbnail )
+		- nhập độ khó từ 1 file bên ngoài
+		- đồng bộ nhạc và độ khó  theo mili giây (ms)
+	- (nâng cao )xử lý hậu kỳ 
