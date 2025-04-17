@@ -4,5 +4,6 @@
 	- [ ] input handle 
 	- [ ] playfield
 	- [ ] note
-	- [ ] audio output
-	- [ ] 
+	- [ ] audio + offset
+	- [ ] score + combo
+	- [ ] pause
