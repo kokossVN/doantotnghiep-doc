@@ -37,9 +37,11 @@
 			- ( nâng cao ) thêm nút khởi động lại màn chơi
 	- Âm nhạc, độ khó
 		- các thể loại nhạc: jpop,tech,hardcore,....
-		- xử lý âm thanh, đồng bộ BPM nhạc
+		- xử lý âm thanh
+			- sử dùng Fmod để quản lý tài nguyên và âm thanh
 		- thông tin độ khó
 			- tên nhạc
 			- nghệ sĩ sáng tác 
 			- người thiết kế độ khó
-			- hoạ sĩ 
+			- hoạ sĩ ảnh bìa ( thumbnail )
+		- 
