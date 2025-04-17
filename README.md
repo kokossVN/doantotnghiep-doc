@@ -26,7 +26,7 @@
 					- note chạm ( tap )
 					- note giữ ( hold )
 					- note trượt ( trace )
-					- note vuốt ( f)
+					- note vuốt ( flick )
 			- xử lý con trỏ ( touch input handle )
 		- hiển thị thống số:
 			- điểm số
@@ -35,4 +35,5 @@
 			- tên màn chơi
 		- thêm nút tạm dừng màn chơi
 			- ( nâng cao ) thêm nút khởi động lại màn chơi
-	- 
+	- Âm nhạc, độ khó
+		- các thể loại nhạc: jpop,
