@@ -38,4 +38,8 @@
 	- Âm nhạc, độ khó
 		- các thể loại nhạc: jpop,tech,hardcore,....
 		- xử lý âm thanh, đồng bộ BPM nhạc
-		- thêm 
+		- thông tin độ khó
+			- tên nhạc
+			- nghệ sĩ sáng tác 
+			- người thiết kế độ khó
+			- hoạ sĩ 
