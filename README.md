@@ -18,6 +18,9 @@
 		- ( nâng cao ) thêm độ khó đặc biệt
 	- màn chơi
 		- thiết kế khu vực chơi
+			- quy định vị trí các note di chuyển
+			- xử lý con trỏ ( touch input handle )
+			- quy định c
 		- hiển thị thống số:
 			- điểm số
 			- độ khó
