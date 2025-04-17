@@ -9,4 +9,7 @@
 	- quản lí thông tin và thành tựu cơ bản 
 - Cơ chế gameplay
 	- cài đặt :
-		- Tăng
+		- Tăng giảm âm lượng 
+		- tắt bật xử lý hậu kỳ ( hiệu năng )
+		- tăng giảm tốc độ cuộn cho note
+	- 
