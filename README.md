@@ -18,9 +18,11 @@
 		- ( nâng cao ) thêm độ khó đặc biệt
 	- màn chơi
 		- thiết kế khu vực chơi
-		- hiện thị thống số:
+		- hiển thị thống số:
 			- điểm số
 			- độ khó
 			- tên độ khó
 			- tên màn chơi
-		- 
+		- thêm nút tạm dừng màn chơi
+			- ( nâng cao ) thêm nút khởi động lại màn chơi
+	- 
