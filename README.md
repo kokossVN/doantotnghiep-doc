@@ -49,4 +49,4 @@
 			- hoạ sĩ ảnh bìa ( thumbnail )
 		- nhập độ khó từ 1 file bên ngoài
 		- đồng bộ nhạc và độ khó  theo mili giây (ms)
-	- (nâng cao )xử lý hậu kỳ 
+		- ( nâng cao )xử lý hậu kỳ 
