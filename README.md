@@ -13,11 +13,11 @@
 	- Tăng giảm âm lượng 
 	- tắt bật xử lý hậu kỳ ( hiệu năng )
 	- tăng giảm tốc độ cuộn cho note
-- độ khó màn chơi
+- **độ khó màn chơi**
 	- thay đổi độ khó
 	- quy định cập độ mỗi màn chơi
 	- ( nâng cao ) thêm độ khó đặc biệt
-- màn chơi
+- **màn chơi**
 	- thiết kế khu vực chơi
 	- quy định note
 		- vị trí note
@@ -36,15 +36,15 @@
 			- tên màn chơi
 		- thêm nút tạm dừng màn chơi
 			- ( nâng cao ) thêm nút khởi động lại màn chơi
-	- Âm nhạc, độ khó
-		- các thể loại nhạc: jpop,tech,hardcore,....
-		- xử lý âm thanh
-			- sử dùng Fmod để quản lý tài nguyên và âm thanh
-		- thông tin độ khó
-			- tên nhạc
-			- nghệ sĩ sáng tác 
-			- người thiết kế độ khó
-			- hoạ sĩ ảnh bìa ( thumbnail )
-		- nhập độ khó từ 1 file bên ngoài
-		- đồng bộ nhạc và độ khó  theo mili giây (ms)
-		- ( nâng cao )xử lý hậu kỳ 
+- **Âm nhạc, độ khó**
+	- các thể loại nhạc: jpop,tech,hardcore,....
+	- xử lý âm thanh
+		- sử dùng Fmod để quản lý tài nguyên và âm thanh
+	- thông tin độ khó
+		- tên nhạc
+		- nghệ sĩ sáng tác 
+		- người thiết kế độ khó
+		- hoạ sĩ ảnh bìa ( thumbnail )
+	- nhập độ khó từ 1 file bên ngoài
+	- đồng bộ nhạc và độ khó  theo mili giây (ms)
+	- ( nâng cao )xử lý hậu kỳ 
