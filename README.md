@@ -12,4 +12,7 @@
 		- Tăng giảm âm lượng 
 		- tắt bật xử lý hậu kỳ ( hiệu năng )
 		- tăng giảm tốc độ cuộn cho note
-	- 
+	- độ khó màn chơi
+		- thay đổi độ khó
+		- quy định cập độ mỗi màn chơi
+		- ( nâng cao ) thêm độ khó đặc biêt
