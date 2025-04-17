@@ -22,6 +22,11 @@
 				- vị trí note
 				- di chuyển note
 				- tính toán điểm khi chạm
+				- quy định các thể loại note 
+					- note chạm ( tap )
+					- note giữ ( hold )
+					- note trượt ( trace )
+					- note vuốt ( f)
 			- xử lý con trỏ ( touch input handle )
 		- hiển thị thống số:
 			- điểm số
