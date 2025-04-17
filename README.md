@@ -21,7 +21,7 @@
 			- quy định note
 				- vị trí note
 				- di chuyển note
-				- xử lý phản hổi 
+				- xử lý phản hổi khi chạm
 				- quy định các thể loại note 
 					- note chạm ( tap )
 					- note giữ ( hold )
