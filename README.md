@@ -36,4 +36,6 @@
 		- thêm nút tạm dừng màn chơi
 			- ( nâng cao ) thêm nút khởi động lại màn chơi
 	- Âm nhạc, độ khó
-		- các thể loại nhạc: jpop,
+		- các thể loại nhạc: jpop,tech,hardcore,....
+		- xử lý âm thanh, đồng bộ BPM nhạc
+		- thêm 
