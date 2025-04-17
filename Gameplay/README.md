@@ -6,5 +6,7 @@
 	- [ ] note
 	- [ ] audio + offset
 	- [ ] score + combo
-	- [ ] paáue button
+	- [ ] pasue button
 
+### Note
+hiện tại đang tìm hiều và viết các chức năng cơ bản của audio sử dụng 
