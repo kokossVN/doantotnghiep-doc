@@ -44,4 +44,5 @@
 			- nghệ sĩ sáng tác 
 			- người thiết kế độ khó
 			- hoạ sĩ ảnh bìa ( thumbnail )
-		- 
+		- nhập độ khó từ 1 file bên ngoài
+		- đồng bộ nhạc và độ khó  theo mili giây
