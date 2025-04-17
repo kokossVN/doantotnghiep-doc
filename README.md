@@ -7,4 +7,6 @@
 	- Tập trung vào độ chính xác và đồng bộ trong game nhịp điệu, cũng như tăng trải nghiệm người dùng và thử thách độ khó cao
 	- cốt truyện tối giản
 	- quản lí thông tin và thành tựu cơ bản 
-- Yêu
+- Cơ chế gameplay
+	- cài đặt :
+		- Tăng
