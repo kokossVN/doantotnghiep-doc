@@ -10,7 +10,7 @@
 
 ### Note
 - hiện tại đang tìm hiều và viết các chức năng cơ bản của audio sử dụng [fmod](https://www.fmod.com/) làm audio library 
-- 
+- input handle sẽ sử dụng 
 
 
 
