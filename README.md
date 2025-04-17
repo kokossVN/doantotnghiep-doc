@@ -21,7 +21,7 @@
 			- quy định note
 				- vị trí note
 				- di chuyển note
-				- tính toán điểm khi chạm
+				- xử lý phản hổi 
 				- quy định các thể loại note 
 					- note chạm ( tap )
 					- note giữ ( hold )
@@ -45,4 +45,5 @@
 			- người thiết kế độ khó
 			- hoạ sĩ ảnh bìa ( thumbnail )
 		- nhập độ khó từ 1 file bên ngoài
-		- đồng bộ nhạc và độ khó  theo mili giây
+		- đồng bộ nhạc và độ khó  theo mili giây (ms)
+		- (nâng cao )xử lý hậu kỳ 
