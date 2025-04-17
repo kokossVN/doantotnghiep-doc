@@ -14,8 +14,8 @@
 - playfield sẽ dùng sprite 2D trên canvas
 - note sẽ di chuyển trong môi trường 3D và đi theo hướng Z 
 ### Issue
-- quy định được 2D hay 3D cho note
-- xử lý note di chuyển 
-- xử lý âm thanh và in theo ms
+- quy định 2D hay 3D cho note
+- hạn chế kiến thức về xử lý note 
+- xử lý âm thanh và input theo ms
 
 
