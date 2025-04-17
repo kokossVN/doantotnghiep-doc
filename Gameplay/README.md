@@ -6,4 +6,5 @@
 	- [ ] note
 	- [ ] audio + offset
 	- [ ] score + combo
-	- [ ] pause
+	- [ ] paáue button
+
