@@ -19,3 +19,7 @@
 - xử lý âm thanh và input theo ms
 
 
+## Nốt (note)
+### Ý tưởng
+- Note spawner: sẽ là particle và nhiệm vụ chính sẽ là xử lý tốc độ và các thay đổi trong game với các note  ( ví du nhanh chậm có thể là đi lùi) - Nguồn : Arcreate - TapNode Prefab
+- 
