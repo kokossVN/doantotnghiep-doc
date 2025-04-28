@@ -21,5 +21,6 @@
 
 ## Nốt (note)
 ### Ý tưởng
-- Note spawner: sẽ là particle và nhiệm vụ chính sẽ là xử lý tốc độ và các thay đổi trong game với các note  ( ví du nhanh chậm có thể là đi lùi) - Nguồn : Arcreate - TapNode Prefab
-- 
+- Note spawner: sẽ là particle và nhiệm vụ chính sẽ là xử lý tốc độ và các thay đổi trong game với các note  ( ví du nhanh chậm có thể là đi lùi) - Nguồn : Arcreate - TapNode Prefab )
+	-  Trong Particle có thể spawn note nên có thể dùng 1 gameobject particlespawn để làm visual note spawn, vì đây là rhythm game nên timing có thể ko nằm ở note mà sẽ nằm ở hàm tính toán đâu đó khác....
+	- 
